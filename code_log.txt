@@ -1,0 +1,11 @@
+24-Jul-03-10:30:08:Preliminaries complete. Initiating ETL process
+24-Jul-03-10:30:44:Preliminaries complete. Initiating ETL process
+24-Jul-03-10:32:25:Preliminaries complete. Initiating ETL process
+24-Jul-03-10:33:33:Preliminaries complete. Initiating ETL process
+24-Jul-03-10:33:33:Data extraction complete. Initiating Transformation process
+24-Jul-03-10:33:45:Preliminaries complete. Initiating ETL process
+24-Jul-03-10:33:45:Data extraction complete. Initiating Transformation process
+24-Jul-03-10:33:45:Data transformation complete. Initiating Loading process
+24-Jul-03-10:33:45:Data saved to CSV file
+24-Jul-03-10:33:45:SQL Connection initiated
+24-Jul-03-10:33:45:Data loaded to Database as a table, Executing queries
